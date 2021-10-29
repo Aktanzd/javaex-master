@@ -12,7 +12,7 @@ public class tenth_ex {
         int[] arr = {1, -5, 3};
         Arrays.sort(arr);
         System.out.println(Arrays.toString(arr));
-        //Сортировка по убыванию
+        //Сортировка по убыванию...
         Integer[] arr1 = {1, -5, 3};
         Arrays.sort(arr1, Collections.reverseOrder());
         System.out.println(Arrays.toString(arr1));
